@@ -7,11 +7,4 @@
 在 Claude Desktop 配置文件中添加：
 
 ```json
-{
-  "mcpServers": {
-    "liquidity-oracle": {
-      "command": "npx",
-      "args": ["-y", "github:你的用户名/liquidity-oracle-mcp"]
-    }
-  }
-}
+
